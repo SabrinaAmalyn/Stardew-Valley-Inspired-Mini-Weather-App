@@ -1,4 +1,4 @@
-# 👩‍🌾☁️ Stardew Valley–Themed Mini Weather App 
+# 👩‍🌾☁️ Stardew Valley Themed Mini Weather App 
 
 This project is a Stardew Valley–themed weather application that displays real-time weather information for cities in Malaysia, using a cozy and playful design. 
 
