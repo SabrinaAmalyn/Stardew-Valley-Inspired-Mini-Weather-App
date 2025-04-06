@@ -5,7 +5,7 @@ This project is a Stardew Valley–themed weather application that displays real
 ![image](https://github.com/user-attachments/assets/887fd454-519a-4f25-964b-5c0211d85471)
 
 
-## Features:
+## ⭐ Features:
 
 1. Takes user input (city name) through a search bar.
 
@@ -60,5 +60,5 @@ To use this Stardew-themed weather app, follow the steps below:
 
 ## ⚠️ Note
 
-This project was created primarily to practice JavaScript, especially API usage and DOM manipulation. Web responsiveness and mobile layout adjustments were not included in this version.
+This project was created primarily to practice JavaScript, especially API usage and DOM manipulation. Web responsiveness and mobile layout adjustments were not included in this version. If I had more time, I’d love to add the Stardew Valley weather forecaster and his quirky commentary to really bring the theme to life and make the experience even more fun. I encourage you to try adding it yourself—it's a great way to make the project uniquely yours and take it to the next level!
 
